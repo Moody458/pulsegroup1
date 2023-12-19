@@ -1,0 +1,31 @@
+.FAQ{
+
+}
+
+.FAQ-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    row-gap: 10px;
+    column-gap: 2em;
+}
+
+#first-row{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+#second-row{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+
+}
+#third-row {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+
